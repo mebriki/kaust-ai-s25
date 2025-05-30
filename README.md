@@ -59,7 +59,7 @@ This is the base Repository for the KAUST Academy Summer School that will be hel
 
 ## Program Overview
 
-The **KAUST Academy Artificial Intelligence Summer School 2025** is designed to provide participants with an in-depth understanding of key AI domains, including Computer Vision, Reinforcement Learning, and Natural Language Processing. The program spans eight weeks, with dedicated modules of three weeks on Computer Vision, two weeks on Reinforcement Learning, and three weeks on Natural Language Processing. Through a blend of theoretical instruction and hands-on projects, students will gain practical skills and insights into emerging challenges across these core areas of AI.
+The KAUST Academy Artificial Intelligence Summer School 2025 is designed to provide participants with an in-depth understanding of key AI domains, including Computer Vision, Reinforcement Learning, and Natural Language Processing. The program spans eight weeks, with dedicated modules of three weeks on Computer Vision, two weeks on Reinforcement Learning, and three weeks on Natural Language Processing. Through a blend of theoretical instruction and hands-on projects, students will gain practical skills and insights into emerging challenges across these core areas of AI.
 
 ## Topics Covered
 
@@ -70,16 +70,14 @@ The **KAUST Academy Artificial Intelligence Summer School 2025** is designed to 
 - Day 5: Autoregressive Models (Concept, FVSBN, NADE, RNADE, PixelRNN, PixelCNN, Pros/Cons).
 - Day 6: Object Detection Overview (Challenges, IoU, Single Object Detection as Regression/Classification, Sliding Window Issues, Region Proposals, R-CNN, Fast R-CNN, Faster R-CNN, YOLO Versions).
 
----
-
 ## 🏆 Certification
 
-**Participants who successfully complete the program, meet the attendance requirements, and submit the final deliverables will receive a *Certificate of Completion* from KAUST Academy, signed by:**
+Participants who successfully complete the program, meet the attendance requirements, and submit the final deliverables will receive a Certificate of Completion from KAUST Academy, signed by:
 
-- **Prof. Naemmullah Khan**, Deputy Director, KAUST Academy | Instructional Assistant Professor, KAUST | Associate Research Fellow, LMH, University of Oxford
-- **Prof. Sultan Albarakati**, Associate Vice President, Saudi Talent Development, KAUST
+- Prof. Naemmullah Khan, Deputy Director, KAUST Academy | Instructional Assistant Professor, KAUST | Associate Research Fellow, LMH, University of Oxford
+- Prof. Sultan Albarakati, Associate Vice President, Saudi Talent Development, KAUST
 
-**Final deliverables include:**
+Final deliverables include:
 
 - A comprehensive project report
 - The project source code
