@@ -1,3 +1,4 @@
+![Banner](Logos/Banner.png)
 # KAUST Academy Artificial Intelligence Summer 2025
 
 This is the base Repository for the KAUST Academy Summer School that will be held in two locations in the Kingdom of Saudi Arabia.
