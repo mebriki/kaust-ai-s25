@@ -63,13 +63,9 @@ The KAUST Academy Artificial Intelligence Summer School 2025 is designed to prov
 
 ## Topics Covered
 
-- Day 1(RECAP): Convolutional Neural Networks (CNNs) - Layers (Conv, Pool, Activation), Padding, Strides, Architectures (LeNet, AlexNet, VGG, Inception, ResNet, MobileNet).
-- Day 2: Unsupervised Learning Overview (Definition, Applications, Challenges, Types: Clustering, DimRed, Anomaly Det.), Dimensionality Reduction Intro (PCA, t-SNE, UMAP).
-- Day 3: Autoencoders (AE) - Concepts, Architecture, Applications (DimRed, Denoising, Super-Res, Colorization), Generative limitations. VAE Introduction.
-- Day 4: Variational Autoencoders (VAEs) - Variational Inference, ELBO, Reparameterization Trick, Results, Disentangled VAEs.
-- Day 5: Autoregressive Models (Concept, FVSBN, NADE, RNADE, PixelRNN, PixelCNN, Pros/Cons).
-- Day 6: Object Detection Overview (Challenges, IoU, Single Object Detection as Regression/Classification, Sliding Window Issues, Region Proposals, R-CNN, Fast R-CNN, Faster R-CNN, YOLO Versions).
-
+- Week 1: Will covere CNN architectures (LeNet to MobileNet), unsupervised learning with dimensionality reduction (PCA, t-SNE, UMAP), autoencoders and VAEs with variational inference, and autoregressive models (PixelRNN/CNN).
+- Week 2: ....
+  
 ## 🏆 Certification
 
 Participants who successfully complete the program, meet the attendance requirements, and submit the final deliverables will receive a Certificate of Completion from KAUST Academy, signed by:
