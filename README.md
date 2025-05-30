@@ -45,7 +45,7 @@ This is the base Repository for the KAUST Academy Summer School that will be hel
 - [Abdullah Jan](https://www.linkedin.com/in/abdullah-jan-929694298)
 - [Abdulrahman Alfrihidi](https://www.linkedin.com/in/abdulrahman-alfrihidi-0243a528a/)
 - [Ali Alqutayfi](https://www.linkedin.com/in/ali-alqutayfi)
-- [Amanat Kafizov](https://www.linkedin.com/in/amanat-kafizov-649b75174/?locale=en_US)
+- [Dr. Amanat Kafizov](https://www.linkedin.com/in/amanat-kafizov-649b75174/?locale=en_US)
 - [Bader Alshamrani](https://www.linkedin.com/in/bader-alshamrani-49a04a245/?originalSubdomain=sa)
 - [Daniel Alsadiq](https://www.linkedin.com/in/daniel-alsadiq/?originalSubdomain=sa)
 - [Harethah Abu Shairah](https://www.linkedin.com/in/harethahmo/)
@@ -55,7 +55,6 @@ This is the base Repository for the KAUST Academy Summer School that will be hel
 - [Lama Ayash](https://www.linkedin.com/in/lama-ayash-9b9383224/?originalSubdomain=sa)
 - [Mohamed Eltayeb](https://www.linkedin.com/in/mohammad2012191/?originalSubdomain=sa)
 - [Yazan Alshuaibi](https://www.linkedin.com/in/yazenalshaebi/)
-- [Hassain Alsayhah](https://www.linkedin.com/in/hassain-alsayhah)
 
 ## Program Overview
 
