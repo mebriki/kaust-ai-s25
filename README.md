@@ -95,4 +95,4 @@ Final deliverables include:
 - The project source code
 - A presentation poster
 
-Maintained by [Ali Habibullah](https://www.linkedin.com/in/ali-habibullah/)
+Maintained by The Teaching Team
