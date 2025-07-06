@@ -40,83 +40,15 @@ The KAUST Academy Artificial Intelligence Summer School 2025 is designed to prov
 | **Day 15:** Contrastive Learning                    | Dr. Tanveer Hussain (KAUST)<br>Dr. Muhammad Mubashar (KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Lectures/Computer%20Vision/Day%2015) | [Lab_15](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Computer%20Vision/Day%2014) | within the lab | will be added after the lab | |
 
 ### Week 4: Reinforcement Learning I
-<table>
-  <colgroup>
-    <col style="width: 20%">
-    <col style="width: 20%">
-    <col style="width: 15%">
-    <col style="width: 25%"> <!-- Labs column -->
-    <col style="width: 7%">
-    <col style="width: 8%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Topic</th>
-      <th>Instructor</th>
-      <th>Slides</th>
-      <th>Labs</th>
-      <th>Exercises</th>
-      <th>Solutions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Day 1:</strong> Introduction to Reinforcement Learning</td>
-      <td>Dr. Prashant Aparajeya (KAUST, KKU)</td>
-      <td><a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-1_Introduction_Reinforcement_Learning.pdf">Slides</a></td>
-      <td>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%201">Lab_1a</a><br>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%201">Lab_1b</a>
-      </td>
-      <td>within the lab</td>
-      <td>will be added after the lab</td>
-    </tr>
-    <tr>
-      <td><strong>Day 2:</strong> DQN + SARSA</td>
-      <td>Dr. Prashant Aparajeya (KAUST, KKU)</td>
-      <td><a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-2_DQN%2BSARSA.pdf">Slides</a></td>
-      <td>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%202">Lab_2a</a><br>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%202">Lab_2b</a>
-      </td>
-      <td>within the lab</td>
-      <td>will be added after the lab</td>
-    </tr>
-    <tr>
-      <td><strong>Day 3:</strong> Policy Gradient (REINFORCE) + Actor–Critic</td>
-      <td>Dr. Prashant Aparajeya (KAUST, KKU)</td>
-      <td><a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-3_Policy_Grad%2BREINFORCE%2BActor_Critic.pdf">Slides</a></td>
-      <td>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%203">Lab_3a</a><br>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%203">Lab_3b</a>
-      </td>
-      <td>within the lab</td>
-      <td>will be added after the lab</td>
-    </tr>
-    <tr>
-      <td><strong>Day 4:</strong> Proximal Policy Optimization (PPO)</td>
-      <td>Dr. Prashant Aparajeya (KAUST, KKU)</td>
-      <td><a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-4_Policy_Search.pdf">Slides</a></td>
-      <td>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204">Lab_4a</a><br>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204">Lab_4b</a><br>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204">Lab_4c</a>
-      </td>
-      <td>within the lab</td>
-      <td>will be added after the lab</td>
-    </tr>
-    <tr>
-      <td><strong>Day 5:</strong> Model‑Based Reinforcement Learning</td>
-      <td>Dr. Prashant Aparajeya (KAUST, KKU)</td>
-      <td><a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-5_Soft_Actor-Critic.pdf">Slides</a></td>
-      <td>
-        <a href="https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%205">Lab_5</a>
-      </td>
-      <td>within the lab</td>
-      <td>will be added after the lab</td>
-    </tr>
-  </tbody>
-</table>
+
+| Topic                                          | Instructor                              | Slides | Labs | Exercises | Solutions |
+|-----------------------------------------------|-----------------------------------------|--------|------|-----------|-----------|
+| **Day 1:** Introduction to Reinforcement Learning | Dr. Prashant Aparajeya (KAUST, KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-1_Introduction_Reinforcement_Learning.pdf) | [Lab_1a](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%201)<br>[Lab_1b](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%201) | within the lab | will be added after the lab |
+| **Day 2:** DQN + SARSA                         | Dr. Prashant Aparajeya (KAUST, KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-2_DQN%2BSARSA.pdf) | [Lab_2a](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%202)<br>[Lab_2b](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%202) | within the lab | will be added after the lab |
+| **Day 3:** Policy Gradient (REINFORCE) + Actor–Critic | Dr. Prashant Aparajeya (KAUST, KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-3_Policy_Grad%2BREINFORCE%2BActor_Critic.pdf) | [Lab_3a](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%203)<br>[Lab_3b](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%203) | within the lab | will be added after the lab |
+| **Day 4:** Proximal Policy Optimization (PPO)  | Dr. Prashant Aparajeya (KAUST, KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-4_Policy_Search.pdf) | [Lab_4a](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204)<br>[Lab_4b](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204)<br>[Lab_4c](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%204) | within the lab | will be added after the lab |
+| **Day 5:** Model‑Based Reinforcement Learning  | Dr. Prashant Aparajeya (KAUST, KKU) | [Slides](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/blob/main/Lectures/Reinforcement%20learning/Lecture-5_Soft_Actor-Critic.pdf) | [Lab_5](https://github.com/ALLIA12/KAUST-Academy-Artificial-Intelligence-Summer-2025/tree/main/Labs/Reinforcement%20Learning/Day%205) | within the lab | will be added after the lab |
+
 
 
 
