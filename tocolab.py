@@ -29,7 +29,7 @@ def update_readme(readme_path: str = 'README.md'):
         return
 
     colab_badge_template = ' [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]({colab_url})'
-    pattern = re.compile(r'\[([^\]]+)\]\((https:\/\/github\.com\/[^\)]+\.ipynb)\)(?!\s*\[\!\[Open In Colab)', re.IGNORECASE)
+    pattern = re.compile(r'\[([^\]]+)\]\((https:\/\/github\.com\/[a-zA-Z0-9-_.%()/]+\.ipynb)\)(?!\s*\[\!\[Open In Colab)', re.IGNORECASE)
     links_updated = []
 
     def add_badge_if_missing(match: re.Match) -> str:
